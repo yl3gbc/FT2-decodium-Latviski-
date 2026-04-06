@@ -39,17 +39,17 @@
     <message>
         <location filename="../Configuration.cpp" line="1925"/>
         <source>API key OK</source>
-        <translation type="unfinished"></translation>
+        <translation>API atslēga ir kārtībā</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1929"/>
         <source>API key read-only</source>
-        <translation type="unfinished"></translation>
+        <translation>API atslēga tikai lasāma</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="1933"/>
         <source>API key invalid</source>
-        <translation type="unfinished"></translation>
+        <translation>API atslēga nav derīga</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="2052"/>
@@ -330,7 +330,7 @@ Reverted Hamlib will be used after restart</source>
     <message>
         <location filename="../Configuration.cpp" line="4544"/>
         <source>Are you sure you want to discard your current working frequencies and replace them with default ones?</source>
-        <translation type="unfinished"></translation>
+        <translation>Vai tiešām vēlaties atmest pašreizējās darba frekvences un aizstāt tās ar noklusējuma frekvencēm?</translation>
     </message>
     <message>
         <location filename="../Configuration.cpp" line="4584"/>
@@ -454,7 +454,7 @@ Reverted Hamlib will be used after restart</source>
         <location filename="../widgets/mainwindow.cpp" line="14923"/>
         <source>Band Activity</source>
         <translatorcomment>jaizdomā  kā  latviski  lāk skan</translatorcomment>
-        <translation>Dekodēto signālu </translation>
+        <translation>Dekodēto signālu sarasts</translation>
     </message>
     <message>
         <location filename="../widgets/mainwindow.ui" line="135"/>
